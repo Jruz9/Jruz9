@@ -1,4 +1,4 @@
 # Hello, my name is Jose Cruz
-I am a Full Stack software engineer with a focus in Java,Javascript and Spring Boot applications.Additionally I also work with data science projects with a focus in Python and R.Currently I am building Java and Python applications and learning more about golang and rust for bots and smart contract development.
+I am a full-stack software engineer specializing in Java, JavaScript, and Spring Boot application development.  My experience also includes data science projects utilizing Python and R.  I am currently developing applications in Java and Python, and exploring Go and Rust for bot and smart contract development.
 
-Currently I am in the look out for a software engineering with a focus in java development but I am open to learning new things. I love making an impact and if you are hiring, let chat.
+Currently I am seeking a software engineering role focused on Java development, though I am always eager to expand my skillset and embrace new technologies. I love making an impact and if you are intrested, please feel free to contact me to discuss potential opportunities.
